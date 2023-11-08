@@ -29,11 +29,13 @@ https://github.com/devkupro/AleoDNS/assets/54788371/03be8c88-f057-4d16-ae3c-1a51
 2. Transfer/Burn DNS
 - Transfer DNS to other owner
 - Burn DNS to delet DNS
+  
 https://github.com/devkupro/AleoDNS/assets/54788371/5917cda4-9508-4d2a-b7ea-abc2356e36f2
 
 3. Marketplace DNS
 - Buy DNS on market domain
 - Sell DNS on market domain
+  
 https://github.com/devkupro/AleoDNS/assets/54788371/86335ef9-46d3-4f42-b5e6-7175875cccab
 
 
