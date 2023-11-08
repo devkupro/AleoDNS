@@ -42,7 +42,7 @@ function InputItem({ checkPage = false }) {
         <Typography variant="h2" sx={{ fontWeight: "bold" }}>
           {" "}
           {checkPage
-            ? "Coming soon..."
+            ? "Aleo x Esollabs"
             : `It's your name. Own it.`}
         </Typography>
       </div>
