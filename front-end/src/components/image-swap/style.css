@@ -1,0 +1,28 @@
+.nft-img {
+  position: absolute;
+  transition: transform 0.5s;
+  transform-origin: left bottom;
+  z-index: 1000;
+}
+
+.nft-img.hover1 {
+  transform: translate(50px, 50px) rotate(10deg);
+  z-index: 0;
+}
+
+.nft-img2 {
+  position: absolute;
+  transition: transform 0.5s;
+  transform-origin: left bottom;
+  transform: translate(50px, 50px) rotate(10deg);
+}
+
+.nft-img2.hover2 {
+  transform: translate(0, 0) rotate(0deg);
+}
+.ntf-cover {
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+
