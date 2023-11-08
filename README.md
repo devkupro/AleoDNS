@@ -1,5 +1,5 @@
-# DNS Dragon Swat
-
+# Aleo DNS
+![Screenshot from 2023-11-08 16-15-04](https://github.com/devkupro/AleoDNS/assets/54788371/ae237b84-aeb9-44c8-8da2-a3b8683bcf6f)
 
 
 ## Getting started
@@ -23,6 +23,7 @@ make frontend
 ## Descriptions:
 1. Mint DNS
 - Register DNS on Aleo's blockchain
+            
 
 2. Transfer/Burn DNS
 - Transfer DNS to other owner
