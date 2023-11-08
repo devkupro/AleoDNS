@@ -8,6 +8,12 @@
 ![Screenshot from 2023-11-08 16-15-04](https://github.com/devkupro/AleoDNS/assets/54788371/ae237b84-aeb9-44c8-8da2-a3b8683bcf6f)
 
 ## Getting started
+#Discord Members
+- vanphappi314 (Leader)
+- Lunar.luam
+- thien0476
+- 
+
 1. Clone the source code from the repository:
 
 ```bash
