@@ -17,7 +17,7 @@
 1. Clone the source code from the repository:
 
 ```bash
-git clone git@gitlab.rinznetwork.com:factory/backend/go-api.git
+git clone https://github.com/devkupro/AleoDNS.git
 ```
 2. Use Makefile to run
 
