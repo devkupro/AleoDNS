@@ -10,12 +10,12 @@ git clone git@gitlab.rinznetwork.com:factory/backend/go-api.git
 ```
 2. Use Makefile to run
 
-- run server by cli
+- run server by CLI
 ```bash
 make backend
 ```
 
-- run UI by cli
+- run UI by CLI
 ```bash
 make frontend
 ```
@@ -23,8 +23,8 @@ make frontend
 ## Descriptions:
 1. Mint DNS
 - Register DNS on Aleo's blockchain
-            
-
+https://github.com/devkupro/AleoDNS/assets/54788371/03be8c88-f057-4d16-ae3c-1a517bdfdf52
+         
 2. Transfer/Burn DNS
 - Transfer DNS to other owner
 - Burn DNS to delet DNS
