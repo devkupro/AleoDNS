@@ -9,10 +9,10 @@
 
 ## Getting started
 ### Discord Members
-- vanphappi314 (Leader)
+- vanphappi314 (Tech Lead)
 - Lunar.luam
 - thien0476
-- 
+- kayden8077
 
 1. Clone the source code from the repository:
 
